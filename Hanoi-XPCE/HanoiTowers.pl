@@ -71,6 +71,7 @@ resource(red, red, image('red.jpg')).
 %	Dada una imagen de la carpeta de recursos, crea dicha imagen y 
 %	la coloca en la posicion que se le haya indicado en la ventana 
 %	que se le haya indicado. 
+%	(Este predicado ha sido sacado de Internet)
 %-------------------------------------------------------------------------------
 
 imagen(Ventana, Figura, Imagen, Posicion) :- 
